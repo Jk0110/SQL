@@ -1,0 +1,1 @@
+This Case study is about an IPL Bidding app named Pie Sky, Several analysis was done using the sql queries and joins. Infered about the percentage of wins and impact of stadiums on win percentage of each ipl team and many more.
